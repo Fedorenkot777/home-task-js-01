@@ -18,5 +18,5 @@
 //  const minutes = String(number % 60).padStart(2, 0);
 //  console.log(minutes);
 //  console.log(`${hours} : ${minutes}`);
-// } //
-converTime(time);
+// } 
+//converTime(time);
